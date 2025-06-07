@@ -25,6 +25,14 @@
   redes sociales transforman la organización colectiva.
 - Sevilla, Manuel. *Redes de colaboración y aprendizaje*. UOC Press, 2020.
 
+## IA colaborativa y estrategia open source
+
+- Raymond, Eric S. *The Cathedral and the Bazaar*. O'Reilly, 1999.
+- Tapscott, Don y Anthony D. Williams. *Wikinomics: How Mass Collaboration Changes Everything*. Portfolio, 2006.
+- Lévy, Pierre. *Inteligencia colectiva: Por una antropología del ciberespacio*. Addison-Wesley, 1997.
+- Malone, Thomas W. *Superminds: The Surprising Power of People and Computers Thinking Together*. Little, Brown and Company, 2018.
+- O'Reilly, Tim. *The Open Source Paradigm Shift*. O'Reilly Media, 2004.
+
 ## Repositorios útiles
 
 - [Papers with Code](https://paperswithcode.com/): excelente recurso para
