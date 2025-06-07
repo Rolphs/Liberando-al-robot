@@ -69,6 +69,7 @@ Este proyecto está vivo y busca mentes curiosas. Si te interesa:
 2. Crea un nuevo branch con tu propuesta  
 3. Edita o comenta en los capítulos existentes  
 4. Haz un Pull Request con contexto: ¿qué modificas y por qué?
+Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles sobre el flujo de trabajo y el estilo.
 
 También puedes usar los *issues* para proponer capítulos, preguntas o bifurcaciones temáticas.
 
