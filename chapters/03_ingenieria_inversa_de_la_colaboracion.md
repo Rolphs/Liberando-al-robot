@@ -7,3 +7,11 @@ La ingeniería inversa comienza observando cómo trabajamos hoy: qué documentos
 Aplicar esta metodología implica aceptar que ningún proceso es sagrado. Nos obliga a cuestionar reuniones, flujos de aprobación y jerarquías que ya no aportan valor. Con la IA como aliado, creamos puentes que automatizan lo repetitivo y amplifican lo estratégico, dejando más tiempo para la reflexión colectiva.
 
 Al final del capítulo, presentamos casos breves que ilustran cómo diferentes equipos rediseñaron su forma de colaborar. Estos ejemplos muestran que, con una mirada crítica y herramientas adecuadas, es posible convertir la teoría en práctica sin perder la esencia humana.
+
+## Desafios
+
+Varias instituciones educativas enfrentaron resistencia cuando se propusieron reescribir sus procesos con IA. Los docentes temían perder su autonomía y, sin un espacio de diálogo, la adopción se frenó. Identificar estas barreras tempranas evita inversiones fallidas.
+
+## Oportunidades
+
+En contraste, universidades que publicaron sus manuales de trabajo y abrieron foros de consulta lograron una participación más activa. Documentaron cada iteración y generaron repositorios accesibles que inspiraron a otras facultades a seguir el ejemplo.

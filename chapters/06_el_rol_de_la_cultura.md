@@ -7,3 +7,11 @@ La cultura es el pegamento invisible que sostiene cualquier transformación. Si 
 Este capítulo propone analizar ritos y hábitos cotidianos para detectar qué aspectos de la cultura impulsan o bloquean la colaboración con IA. Desde la forma en que se comparte la información hasta el modo en que se gestionan los errores, cada práctica revela la disposición al cambio y la apertura a nuevas herramientas.
 
 A través de ejemplos concretos veremos cómo algunas organizaciones modificaron su lenguaje interno y sus espacios de diálogo para fomentar una mentalidad experimental. La clave está en cultivar comunidades de aprendizaje que celebren la curiosidad y la crítica constructiva. Solo así la tecnología puede arraigar de manera sostenible.
+
+## Desafios
+
+En organizaciones con estructuras muy rígidas, la introducción de IA suele chocar con miedos a la pérdida de control. Un banco tradicional canceló su programa de automatización porque no logró conciliar las inquietudes de sus empleados con los objetivos de eficiencia.
+
+## Oportunidades
+
+Por otro lado, empresas que promueven espacios de aprendizaje continuo lograron incorporar modelos de lenguaje como facilitadores de proyectos internos. Estas compañías abren foros de retroalimentación y premian la experimentación, creando así un clima propicio para la adaptación tecnológica.
