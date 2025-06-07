@@ -27,3 +27,4 @@ jobs:
           path: |
             dist/Liberando_al_Robot.pdf
             dist/Liberando_al_Robot.epub
+            dist/Liberando_al_Robot.html
