@@ -59,6 +59,12 @@ Cada capítulo está diseñado para:
 - Proponer una reconfiguración simbólica y operativa  
 - Mostrar cómo se vería con IA integrada
 
+## 📚 Cómo generar el libro
+
+Este proyecto se compila con `pandoc` combinando los capítulos en `chapters/`.
+Instala `pandoc` (y LaTeX para producir PDF) y ejecuta el comando de generación para obtener un PDF o EPUB.
+Consulta [BUILD.md](BUILD.md) para instrucciones detalladas.
+
 ---
 
 ## ✍️ Cómo contribuir
