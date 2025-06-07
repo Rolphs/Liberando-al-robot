@@ -15,3 +15,27 @@ En organizaciones con estructuras muy rígidas, la introducción de IA suele cho
 ## Oportunidades
 
 Por otro lado, empresas que promueven espacios de aprendizaje continuo lograron incorporar modelos de lenguaje como facilitadores de proyectos internos. Estas compañías abren foros de retroalimentación y premian la experimentación, creando así un clima propicio para la adaptación tecnológica.
+
+## Herramientas para cultivar cultura
+
+1. **Ritos de revisión**: implementa reuniones periódicas donde se comparta qué
+   experimentos se están llevando a cabo con IA. Estos espacios generan
+   transparencia y permiten corregir el rumbo antes de que surjan malas
+   interpretaciones.
+2. **Diarios de aprendizaje**: anima a los equipos a mantener bitácoras públicas
+   sobre lo que descubren al usar herramientas de IA. Además de registrar
+   avances, fomentan el intercambio de recursos y errores comunes.
+3. **Mentoría cruzada**: empareja a personas con distintos niveles de experiencia
+   tecnológica. Un mentor puede acompañar la integración de la IA en tareas
+   cotidianas y resolver dudas en tiempo real.
+
+## Historia ejemplar
+
+Una pequeña editorial independiente implementó estas prácticas para actualizar su
+proceso de edición. Antes la corrección de estilo y la maquetación requerían
+largas jornadas de trabajo aislado. Con la aparición de la IA, algunos editores
+mostraron reticencia. La dirección instauró un sistema de mentoría donde quienes
+ya dominaban la herramienta apoyaban a sus colegas. Además, establecieron un
+ritual semanal en el que todos compartían avances y bloqueos. En pocos meses, la
+productividad aumentó y se generó un entorno de confianza que permitió explorar
+nuevos formatos de publicación sin fricciones.

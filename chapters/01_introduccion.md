@@ -15,3 +15,24 @@ Un caso frecuente se da cuando se implementan herramientas de IA sin involucrar 
 ## Oportunidades
 
 La experiencia de varios laboratorios de innovación demuestra que, al iniciar con proyectos piloto y sesiones de revisión abierta, se construye confianza alrededor de la tecnología. Estas iniciativas documentan cada decisión y así sentan precedentes para futuras integraciones.
+
+## Ejemplo práctico
+
+Imaginemos un estudio de diseño que desea incorporar modelos de lenguaje en su
+proceso creativo. En lugar de imponer la herramienta de forma repentina, el
+equipo define un reto específico: generar borradores de conceptos y compartirlos
+en un canal interno abierto. Cada integrante comenta las propuestas y registra
+qué ajustes realiza con la IA. Tras algunas semanas, recopilan las lecciones
+aprendidas y las convierten en una guía de uso. Este ejercicio controlado
+permite descubrir qué tipo de prompts funcionan mejor y qué tareas siguen
+requiriendo intervención humana.
+
+## Recomendaciones
+
+Para quienes se inician en la colaboración con IA, es clave mantener un espíritu
+de experimentación permanente. Documenta tus pruebas, incluso las fallidas, y
+compártelas con tu equipo. Establece métricas simples para evaluar la utilidad
+de cada herramienta y evita implementaciones masivas sin un período de prueba.
+Recuerda que la tecnología cambia con rapidez: revisa periódicamente tus
+protocolos y ajusta las prácticas según la retroalimentación de quienes la usan
+día a día.

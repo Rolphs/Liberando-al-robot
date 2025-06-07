@@ -16,3 +16,15 @@ En la práctica, diversas organizaciones descubrieron que adoptar modelos de len
 ## Oportunidades
 
 Los equipos que invierten en un piloto abierto, donde cada miembro comparte resultados y aprendizajes, suelen obtener mejores rendimientos. Un caso notable es el de una cooperativa tecnológica que publica semanalmente sus experimentos con IA, permitiendo que otras comunidades repliquen y mejoren sus métodos.
+
+## Guía de lectura
+
+Para sacarle todo el provecho a este texto es recomendable organizar pequeños
+grupos de debate tras cada capítulo. Estas sesiones sirven para compartir
+impresiones, contrastar experiencias y plantear dudas comunes. Algunas
+organizaciones educativas coordinan círculos de lectura quincenales donde cada
+participante documenta en un repositorio colaborativo las ideas aplicadas en su
+ámbito. Esta práctica no sólo incrementa la comprensión colectiva sino que
+genera un banco de experimentos del que otros equipos pueden aprender. El libro
+se convierte así en una plataforma viva que evoluciona con cada nueva
+interpretación.

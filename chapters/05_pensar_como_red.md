@@ -15,3 +15,25 @@ Una dificultad habitual surge cuando cada área trabaja con su propio sistema de
 ## Oportunidades
 
 Comunidades de software libre han demostrado que publicar los avances en canales abiertos acelera la resolución de problemas. Al adoptar esta práctica en entornos corporativos, los equipos comparten aprendizajes y crean vínculos más sólidos que trascienden la estructura formal.
+
+## Dinámicas sugeridas
+
+1. **Reuniones cruzadas**: organiza encuentros breves entre áreas que raramente
+   colaboran. Cada grupo expone sus desafíos y recibe comentarios frescos. Esta
+   práctica rompe la inercia de las jerarquías y activa nuevas conexiones.
+2. **Mapas de conocimiento**: utiliza herramientas de visualización para
+   documentar qué sabe cada miembro del equipo y dónde hace falta apoyo. Los
+   modelos de lenguaje pueden ayudar a detectar coincidencias temáticas y
+   recomendar colaboraciones.
+3. **Ciclos de retroalimentación**: establece un canal permanente donde todos
+   puedan proponer mejoras a los procesos existentes. La IA puede resumir las
+   discusiones y destacar patrones recurrentes.
+
+## Caso inspirador
+
+En una red de cooperativas, la adopción de estas dinámicas permitió compartir
+recursos sin duplicar esfuerzos. Cada cooperativa mantenía un diario público de
+actividades y retos. Gracias a un modelo de lenguaje que clasificaba las
+publicaciones, cualquier participante podía encontrar proyectos similares y
+coordinarse para intercambiar soluciones. El resultado fue una economía de
+esfuerzos y un incremento notable en la cantidad de iniciativas conjuntas.
