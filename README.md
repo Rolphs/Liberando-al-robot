@@ -105,6 +105,10 @@ Este libro está siendo desarrollado por [Raúl Mercado](https://www.linkedin.co
 
 ---
 
+## Licencia
+
+El contenido de este repositorio se distribuye bajo la [Licencia Creative Commons Atribución 4.0 Internacional](LICENSE).
+
 ## 🚀 Pregunta final
 
 **¿Y si tratáramos a la estrategia como si fuera software?**  
