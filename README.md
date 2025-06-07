@@ -1,6 +1,6 @@
 # 🤖 Liberando al Robot
 
-> "De ChatGPT con corbata a la colaboración: cómo integrar IA sin romper el pensamiento" 
+> "De ChatGPT con corbata a la colaboración: cómo integrar IA sin romper el pensamiento"
 
 (Lee más en [libro_tagline_sinopsis.md](libro_tagline_sinopsis.md))
 
@@ -14,9 +14,9 @@ Bienvenido/a a *Liberando al Robot*, un experimento vivo que reimagina cómo los
 
 Lo desarrollamos en este repositorio aplicando los mismos principios que predicamos:
 
-- Versionado de ideas  
-- Trazabilidad del pensamiento  
-- Bifurcación y recombinación de conceptos  
+- Versionado de ideas
+- Trazabilidad del pensamiento
+- Bifurcación y recombinación de conceptos
 - Construcción colectiva de conocimiento
 
 ---
@@ -25,17 +25,17 @@ Lo desarrollamos en este repositorio aplicando los mismos principios que predica
 
 ### Este libro busca
 
-1. Integrar la IA como infraestructura de pensamiento, no solo como herramienta puntual.  
-2. Transformar la práctica estratégica con principios de código abierto, desarrollo iterativo y redes distribuidas.  
+1. Integrar la IA como infraestructura de pensamiento, no solo como herramienta puntual.
+2. Transformar la práctica estratégica con principios de código abierto, desarrollo iterativo y redes distribuidas.
 3. Mostrar cómo piensan los equipos que piensan bien, y cómo eso puede escalar sin perder lo humano.
 
 ---
 
 ## 🔑 Principios rectores
 
-- **Pensamiento como Protocolo**: Las ideas pueden versionarse, bifurcarse, documentarse y colaborar como el software.  
-- **No más silos**: Las mejores ideas no deben morir en PowerPoints olvidados o brainstorms efímeros.  
-- **IA como colaboradora, no asistente**: Los LLMs no son ayudantes, son nodos de una red de inteligencia colectiva.  
+- **Pensamiento como Protocolo**: Las ideas pueden versionarse, bifurcarse, documentarse y colaborar como el software.
+- **No más silos**: Las mejores ideas no deben morir en PowerPoints olvidados o brainstorms efímeros.
+- **IA como colaboradora, no asistente**: Los LLMs no son ayudantes, son nodos de una red de inteligencia colectiva.
 - **Lo experimental es lo real**: Escribimos como investigamos. Investigamos como construimos.
 
 ---
@@ -56,8 +56,8 @@ Lo desarrollamos en este repositorio aplicando los mismos principios que predica
 
 Cada capítulo está diseñado para:
 
-- Desarmar una práctica actual (ej. briefings, juntas, strategy decks)  
-- Proponer una reconfiguración simbólica y operativa  
+- Desarmar una práctica actual (ej. briefings, juntas, strategy decks)
+- Proponer una reconfiguración simbólica y operativa
 - Mostrar cómo se vería con IA integrada
 
 ## 📚 Cómo generar el libro
@@ -72,9 +72,9 @@ Consulta [BUILD.md](BUILD.md) para instrucciones detalladas.
 
 Este proyecto está vivo y busca mentes curiosas. Si te interesa:
 
-1. Forkea este repo  
-2. Crea un nuevo branch con tu propuesta  
-3. Edita o comenta en los capítulos existentes  
+1. Forkea este repo
+2. Crea un nuevo branch con tu propuesta
+3. Edita o comenta en los capítulos existentes
 4. Haz un Pull Request con contexto: ¿qué modificas y por qué?
 Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles sobre el flujo de trabajo y el estilo.
 
@@ -84,15 +84,15 @@ También puedes usar los *issues* para proponer capítulos, preguntas o bifurcac
 
 ## 🧠 Para quién es esto
 
-- Líderes que no quieren usar IA como moda sino como fundamento.  
-- Equipos que piensan, pero que quieren pensar mejor, juntos.  
+- Líderes que no quieren usar IA como moda sino como fundamento.
+- Equipos que piensan, pero que quieren pensar mejor, juntos.
 - Estrategas, tecnólogos, creativos, científicos sociales, artistas y constructores de futuros.
 
 ---
 
 ## 🕳️ ¿Por qué en GitHub?
 
-Porque si tratamos a las ideas como código, este es el lugar lógico para escribirlas, bifurcarlas y mantener su historia viva.  
+Porque si tratamos a las ideas como código, este es el lugar lógico para escribirlas, bifurcarlas y mantener su historia viva.
 No creemos en PDFs muertos. Creemos en ideas que evolucionan.
 
 ---
@@ -107,7 +107,7 @@ Este libro está siendo desarrollado por [Raúl Mercado](https://www.linkedin.co
 
 ## 📎 Enlaces clave
 
-- [Sitio de lectura colaborativa](https://lnkd.in/eSFDs5xk)  
+- [Sitio de lectura colaborativa](https://lnkd.in/eSFDs5xk)
 - [Miro/mapa conceptual (si aplica)](https://example.com)
 - [Documento fundacional/tagline/sinopsis](libro_tagline_sinopsis.md)
 - [Cómo citar este libro](CITATION.cff)
@@ -134,7 +134,7 @@ El contenido de este repositorio se distribuye bajo la [Licencia Creative Common
 
 ## 🚀 Pregunta final
 
-**¿Y si tratáramos a la estrategia como si fuera software?**  
+**¿Y si tratáramos a la estrategia como si fuera software?**
 Este libro es nuestra mejor respuesta hasta ahora. ¿Cuál es la tuya?
 
 DM abierto. PRs bienvenidos.
