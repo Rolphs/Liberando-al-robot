@@ -30,6 +30,7 @@ orden:
 9. `chapters/08_experimentos_abiertos.md`
 10. `chapters/09_manifesto_final.md`
 11. `chapters/10_referencias.md`
+12. `chapters/11_glosario.md`
 
 ## Generar PDF
 
@@ -46,6 +47,7 @@ pandoc \
   chapters/08_experimentos_abiertos.md \
   chapters/09_manifesto_final.md \
   chapters/10_referencias.md \
+  chapters/11_glosario.md \
   --toc --pdf-engine=xelatex \
   -o Liberando_al_Robot.pdf
 ```
@@ -65,6 +67,7 @@ pandoc \
   chapters/08_experimentos_abiertos.md \
   chapters/09_manifesto_final.md \
   chapters/10_referencias.md \
+  chapters/11_glosario.md \
   --toc \
   -o Liberando_al_Robot.epub
 ```
