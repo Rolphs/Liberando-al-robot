@@ -1,6 +1,8 @@
 # 🤖 Liberando al Robot
 
-**De ChatGPT con corbata a colaboración real: cómo integrar IA sin romper el pensamiento.**
+> "De ChatGPT con corbata a la colaboración: cómo integrar IA sin romper el pensamiento" 
+
+(Lee más en [libro_tagline_sinopsis.md](libro_tagline_sinopsis.md))
 
 Bienvenido/a a *Liberando al Robot*, un experimento vivo que reimagina cómo los humanos y los modelos de lenguaje (LLMs) pueden pensar juntos. Este no es un libro sobre inteligencia artificial: es un manifiesto estratégico, un manual práctico y una plataforma colaborativa para rediseñar la forma en que generamos conocimiento.
 
