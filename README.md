@@ -101,8 +101,9 @@ Este libro está siendo desarrollado por [Raúl Mercado](https://www.linkedin.co
 ## 📎 Enlaces clave
 
 - [Sitio de lectura colaborativa](https://lnkd.in/eSFDs5xk)  
-- [Miro/mapa conceptual (si aplica)](https://example.com)  
+- [Miro/mapa conceptual (si aplica)](https://example.com)
 - [Documento fundacional/tagline/sinopsis](libro_tagline_sinopsis.md)
+- [Cómo citar este libro](CITATION.cff)
 
 ---
 
