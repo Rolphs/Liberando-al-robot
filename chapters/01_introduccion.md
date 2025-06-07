@@ -7,3 +7,5 @@ La transformación digital ha sido un concepto repetido hasta el cansancio, pero
 Aquí planteamos un enfoque centrado en la experimentación continua. Reimaginar la colaboración no es un proyecto puntual, sino un ciclo de aprendizaje donde cada iteración aporta a la siguiente. Las decisiones se documentan, los procesos se abren y se mejora en público. Solo así la innovación se vuelve sostenible y replicable.
 
 Al establecer este marco, sentamos las bases para los capítulos que siguen: un recorrido que desmantela mitos, revisa estructuras y propone prácticas concretas para construir redes de pensamiento con la IA como cómplice de todo el proceso.
+
+[Anterior](../chapters/00_prologo.md) | [Siguiente](../chapters/02_muerte_de_la_idea_lineal.md)

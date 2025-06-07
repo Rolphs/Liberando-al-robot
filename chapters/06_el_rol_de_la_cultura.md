@@ -7,3 +7,5 @@ La cultura es el pegamento invisible que sostiene cualquier transformación. Si 
 Este capítulo propone analizar ritos y hábitos cotidianos para detectar qué aspectos de la cultura impulsan o bloquean la colaboración con IA. Desde la forma en que se comparte la información hasta el modo en que se gestionan los errores, cada práctica revela la disposición al cambio y la apertura a nuevas herramientas.
 
 A través de ejemplos concretos veremos cómo algunas organizaciones modificaron su lenguaje interno y sus espacios de diálogo para fomentar una mentalidad experimental. La clave está en cultivar comunidades de aprendizaje que celebren la curiosidad y la crítica constructiva. Solo así la tecnología puede arraigar de manera sostenible.
+
+[Anterior](../chapters/05_pensar_como_red.md) | [Siguiente](../chapters/07_frameworks_y_protocolos.md)
