@@ -1,5 +1,3 @@
-# Liberando-al-robot
-ebook - Ensayo estratégico que realiza ingeniería inversa de procesos colaborativos tradicionales (estrategia, creatividad, toma de decisión) para integrar LLMs de forma transparente y eficiente en pensamiento distribuido.
 # 🤖 Liberando al Robot
 
 **De ChatGPT con corbata a colaboración real: cómo integrar IA sin romper el pensamiento.**
@@ -12,7 +10,8 @@ Bienvenido/a a *Liberando al Robot*, un experimento vivo que reimagina cómo los
 
 **Liberando al Robot** es un ensayo estratégico escrito en público y con versión colaborativa. Aquí desarmamos cómo funcionan la estrategia, la creatividad y la toma de decisiones para reconstruirlos con IA integrada —sin reemplazar a las personas, sin caer en automatización vacía.
 
-Lo desarrollamos en este repositorio aplicando los mismos principios que predicamos:  
+Lo desarrollamos en este repositorio aplicando los mismos principios que predicamos:
+
 - Versionado de ideas  
 - Trazabilidad del pensamiento  
 - Bifurcación y recombinación de conceptos  
@@ -22,7 +21,7 @@ Lo desarrollamos en este repositorio aplicando los mismos principios que predica
 
 ## 🧭 Propósito
 
-### Este libro busca:
+### Este libro busca
 
 1. Integrar la IA como infraestructura de pensamiento, no solo como herramienta puntual.  
 2. Transformar la práctica estratégica con principios de código abierto, desarrollo iterativo y redes distribuidas.  
@@ -53,6 +52,7 @@ Lo desarrollamos en este repositorio aplicando los mismos principios que predica
 - [09_manifesto_final](chapters/09_manifesto_final.md)
 
 Cada capítulo está diseñado para:
+
 - Desarmar una práctica actual (ej. briefings, juntas, strategy decks)  
 - Proponer una reconfiguración simbólica y operativa  
 - Mostrar cómo se vería con IA integrada

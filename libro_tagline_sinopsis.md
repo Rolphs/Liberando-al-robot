@@ -1,7 +1,8 @@
 # Liberando al Robot
 
-## Tagline final:
-**"De ChatGPT con corbata a la colaboración: cómo integrar IA sin romper el pensamiento"**
+## Tagline final
+
+> "De ChatGPT con corbata a la colaboración: cómo integrar IA sin romper el pensamiento"
 
 ---
 
@@ -28,4 +29,5 @@ Escrito colaborativamente en GitHub aplicando los mismos principios que predica:
 ---
 
 ## Una línea para bio/firma
-*Autor de "Liberando al Robot: Ingeniería inversa para la colaboración humano-IA"*
+
+Autor de "Liberando al Robot: Ingeniería inversa para la colaboración humano-IA"
