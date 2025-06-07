@@ -42,8 +42,9 @@ Lo desarrollamos en este repositorio aplicando los mismos principios que predica
 ## 🧱 Estructura del libro
 
 ```
-/chapters  
-├── 01_introduccion.md  
+/chapters
+├── 00_prologo.md
+├── 01_introduccion.md
 ├── 02_muerte_de_la_idea_lineal.md  
 ├── 03_ingenieria_inversa_de_la_colaboracion.md  
 ├── 04_llms_como_infraestructura.md  
