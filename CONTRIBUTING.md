@@ -18,3 +18,14 @@ Gracias por querer mejorar **Liberando al Robot**. Sigue estos pasos para colabo
 ## Discusión de cambios
 
 Para ideas grandes o dudas, abre un *issue*. Los Pull Requests también son bienvenidos para conversar ajustes específicos.
+
+## Comprobaciones locales
+
+Antes de enviar tu PR puedes verificar el estado de los archivos `.md` con estas herramientas:
+
+1. Instala las dependencias:
+   - `npm install -g markdownlint-cli`
+   - `pip install codespell`
+2. Ejecuta:
+   - `markdownlint '**/*.md'` para revisar estilo Markdown.
+   - `codespell` para encontrar errores ortográficos.
