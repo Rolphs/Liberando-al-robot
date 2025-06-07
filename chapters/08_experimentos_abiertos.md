@@ -15,3 +15,26 @@ Algunos equipos fallan al abrir sus pruebas porque temen exponer errores. Sin em
 ## Oportunidades
 
 La comunidad de desarrolladores de código abierto ha hecho de los registros públicos un pilar para innovar. Emular esta práctica en organizaciones privadas fomenta la transparencia y multiplica las oportunidades de colaboración interdisciplinaria.
+
+## Cómo iniciar
+
+1. **Define un espacio**: habilita un repositorio o tablero abierto donde se
+   publiquen los experimentos en curso. La visibilidad es clave para que surjan
+   aportes externos.
+2. **Documenta todo**: registra hipótesis, datos utilizados y resultados
+   preliminares. Incluso las fallas aportan valor cuando quedan bien descritas y
+   justificadas.
+3. **Celebra la participación**: reconoce públicamente a quienes contribuyen con
+   ideas o correcciones. Esta motivación extra sostiene el compromiso colectivo
+   a largo plazo.
+
+## Ilustración práctica
+
+Un grupo de estudiantes de ingeniería creó un portal donde comparten los avances
+de sus proyectos de robótica. Cada semana suben un video con el estado actual,
+los problemas encontrados y las próximas tareas. Gracias a esta apertura,
+recibieron sugerencias de otros departamentos y lograron solucionar un fallo en
+la electrónica que llevaba meses frenando el desarrollo. Además, el portal sirve
+para que nuevos integrantes se sumen sin necesidad de largas sesiones de
+inducción, ya que pueden consultar el histórico de pruebas y replicarlas en su
+propio laboratorio.

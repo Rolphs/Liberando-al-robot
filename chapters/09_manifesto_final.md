@@ -15,3 +15,25 @@ El principal reto es no reducir este manifiesto a un eslogan vacío. Hemos visto
 ## Oportunidades
 
 Cuando las organizaciones comparten sus compromisos y métricas de manera pública, generan un efecto multiplicador. Grupos de activismo digital ya practican esta transparencia radical, inspirando a empresas y comunidades a sumarse a la construcción de un futuro colaborativo.
+
+## Líneas de acción
+
+1. **Participación abierta**: invita a colaboradores de distintos ámbitos a
+   revisar tu estrategia de IA. Las perspectivas diversas previenen sesgos y
+   generan confianza en los resultados.
+2. **Medición constante**: define indicadores claros sobre cómo la IA mejora (o
+   no) los procesos internos. Comparte estas métricas para que todos evalúen el
+   impacto real.
+3. **Aprendizaje distribuido**: promueve espacios donde cada experiencia se
+   documente y se comparta. Una red de conocimiento descentralizada es más
+   resistente y se adapta mejor a los cambios tecnológicos.
+
+## Inspiración cercana
+
+Un colectivo de artistas urbanos decidió implementar este manifiesto en sus
+prácticas. Publicaron en línea sus métodos de creación conjunta con algoritmos y
+solicitaron feedback de la comunidad. Al recibir aportes de programadores,
+diseñadores y críticos, mejoraron sus herramientas e incorporaron módulos de
+automatización responsable. Este diálogo constante no solo fortaleció sus
+obras, sino que atrajo a nuevos miembros interesados en la intersección de arte
+e inteligencia artificial.

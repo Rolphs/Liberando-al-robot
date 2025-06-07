@@ -15,3 +15,30 @@ Varias instituciones educativas enfrentaron resistencia cuando se propusieron re
 ## Oportunidades
 
 En contraste, universidades que publicaron sus manuales de trabajo y abrieron foros de consulta lograron una participación más activa. Documentaron cada iteración y generaron repositorios accesibles que inspiraron a otras facultades a seguir el ejemplo.
+
+## Pasos sugeridos
+
+1. **Mapeo inicial**: registra todas las herramientas y protocolos que usa tu
+   equipo. Identifica dónde se repite información y qué tareas podrían
+   automatizarse.
+2. **Identifica fricciones**: pregunta a cada miembro qué parte del proceso le
+   resulta más tediosa. Muchas veces esos cuellos de botella son los mejores
+   candidatos para una integración con IA.
+3. **Diseña un piloto**: selecciona un proyecto pequeño y reemplaza o complementa
+   una etapa con un modelo de lenguaje. Documenta cada paso y comparte los
+   resultados con el resto del equipo.
+4. **Evalúa y ajusta**: usa métricas simples para medir el impacto. Revisa qué se
+   ahorró en tiempo, qué se ganó en claridad y qué aún necesita intervención
+   humana.
+
+## Caso real
+
+Un colectivo de periodistas independientes aplicó esta metodología para
+gestionar su flujo editorial. Antes, cada nota pasaba por interminables cadenas
+de correos y ediciones duplicadas. Al mapear el proceso descubrieron que la
+mayoría de correcciones eran de estilo. Entrenaron un modelo de lenguaje con
+sus lineamientos y lo integraron en la plataforma de escritura. El bot realiza
+una primera revisión y deja comentarios en los borradores. Los redactores tienen
+la última palabra, pero ganaron tiempo para investigar más a fondo. Documentaron
+todo el proyecto en un repositorio abierto, lo que permitió a otros medios de la
+región replicar la experiencia con adaptaciones mínimas.
