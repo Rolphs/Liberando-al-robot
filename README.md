@@ -112,6 +112,20 @@ Este libro está siendo desarrollado por [Raúl Mercado](https://www.linkedin.co
 - [Documento fundacional/tagline/sinopsis](libro_tagline_sinopsis.md)
 - [Cómo citar este libro](CITATION.cff)
 
+## Cómo compilar el libro
+
+Para generar el libro localmente necesitas [Pandoc](https://pandoc.org/) 2.x y
+una distribución de LaTeX (por ejemplo `texlive`) para producir el PDF. Con las
+dependencias instaladas, puedes ejecutar el script `scripts/build.sh` que
+combina los capítulos y crea los archivos PDF y EPUB:
+
+```bash
+./scripts/build.sh
+```
+
+Los resultados se guardan en la carpeta `dist/`. Consulta [BUILD.md](BUILD.md)
+para más opciones de compilación.
+
 ---
 
 ## Licencia
