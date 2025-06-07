@@ -52,6 +52,7 @@ Lo desarrollamos en este repositorio aplicando los mismos principios que predica
 - [07_frameworks_y_protocolos](chapters/07_frameworks_y_protocolos.md)
 - [08_experimentos_abiertos](chapters/08_experimentos_abiertos.md)
 - [09_manifesto_final](chapters/09_manifesto_final.md)
+- [11_agradecimientos](chapters/11_agradecimientos.md)
 
 Cada capítulo está diseñado para:
 

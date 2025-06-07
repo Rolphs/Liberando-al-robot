@@ -29,6 +29,7 @@ orden:
 8. `chapters/07_frameworks_y_protocolos.md`
 9. `chapters/08_experimentos_abiertos.md`
 10. `chapters/09_manifesto_final.md`
+11. `chapters/11_agradecimientos.md`
 
 ## Generar PDF
 
@@ -44,6 +45,7 @@ pandoc \
   chapters/07_frameworks_y_protocolos.md \
   chapters/08_experimentos_abiertos.md \
   chapters/09_manifesto_final.md \
+  chapters/11_agradecimientos.md \
   --toc --pdf-engine=xelatex \
   -o Liberando_al_Robot.pdf
 ```
@@ -62,6 +64,7 @@ pandoc \
   chapters/07_frameworks_y_protocolos.md \
   chapters/08_experimentos_abiertos.md \
   chapters/09_manifesto_final.md \
+  chapters/11_agradecimientos.md \
   --toc \
   -o Liberando_al_Robot.epub
 ```
