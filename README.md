@@ -41,19 +41,16 @@ Lo desarrollamos en este repositorio aplicando los mismos principios que predica
 
 ## 🧱 Estructura del libro
 
-```
-/chapters
-├── 00_prologo.md
-├── 01_introduccion.md
-├── 02_muerte_de_la_idea_lineal.md  
-├── 03_ingenieria_inversa_de_la_colaboracion.md  
-├── 04_llms_como_infraestructura.md  
-├── 05_pensar_como_red.md  
-├── 06_el_rol_de_la_cultura.md  
-├── 07_frameworks_y_protocolos.md  
-├── 08_experimentos_abiertos.md  
-└── 09_manifesto_final.md  
-```
+- [00_prologo](chapters/00_prologo.md)
+- [01_introduccion](chapters/01_introduccion.md)
+- [02_muerte_de_la_idea_lineal](chapters/02_muerte_de_la_idea_lineal.md)
+- [03_ingenieria_inversa_de_la_colaboracion](chapters/03_ingenieria_inversa_de_la_colaboracion.md)
+- [04_llms_como_infraestructura](chapters/04_llms_como_infraestructura.md)
+- [05_pensar_como_red](chapters/05_pensar_como_red.md)
+- [06_el_rol_de_la_cultura](chapters/06_el_rol_de_la_cultura.md)
+- [07_frameworks_y_protocolos](chapters/07_frameworks_y_protocolos.md)
+- [08_experimentos_abiertos](chapters/08_experimentos_abiertos.md)
+- [09_manifesto_final](chapters/09_manifesto_final.md)
 
 Cada capítulo está diseñado para:
 - Desarmar una práctica actual (ej. briefings, juntas, strategy decks)  
