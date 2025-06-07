@@ -16,3 +16,4 @@ files=(
 
 pandoc "${files[@]}" --toc --pdf-engine=xelatex -o dist/Liberando_al_Robot.pdf
 pandoc "${files[@]}" --toc -o dist/Liberando_al_Robot.epub
+pandoc "${files[@]}" --toc -o dist/Liberando_al_Robot.html
