@@ -1,0 +1,29 @@
+name: Build Book
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive texlive-xetex
+
+      - name: Compile book
+        run: ./scripts/build.sh
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: libro
+          path: |
+            dist/Liberando_al_Robot.pdf
+            dist/Liberando_al_Robot.epub
