@@ -140,3 +140,11 @@ El contenido de este repositorio se distribuye bajo la [Licencia Creative Common
 Este libro es nuestra mejor respuesta hasta ahora. ¿Cuál es la tuya?
 
 DM abierto. PRs bienvenidos.
+
+---
+
+## ❓ Preguntas frecuentes
+
+- **¿Cómo compilar el libro?** Instala `pandoc` y una distribución de LaTeX. Ejecuta `./scripts/build.sh`. Más detalles en [BUILD.md](BUILD.md).
+- **¿Cómo proponer nuevos capítulos?** Abre un issue o PR con tu idea y revisa la guía en [CONTRIBUTING.md](CONTRIBUTING.md).
+- **Uso de la licencia:** El contenido está bajo [CC BY 4.0](LICENSE); puedes reutilizarlo citando la fuente.
