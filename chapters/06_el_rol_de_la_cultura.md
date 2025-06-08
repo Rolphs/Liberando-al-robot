@@ -39,3 +39,5 @@ ya dominaban la herramienta apoyaban a sus colegas. Además, establecieron un
 ritual semanal en el que todos compartían avances y bloqueos. En pocos meses, la
 productividad aumentó y se generó un entorno de confianza que permitió explorar
 nuevos formatos de publicación sin fricciones.
+
+[Lee la sinopsis y el tagline del libro](../libro_tagline_sinopsis.md)

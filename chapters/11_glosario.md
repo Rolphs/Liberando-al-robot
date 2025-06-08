@@ -12,3 +12,5 @@ Este glosario reúne conceptos técnicos y estratégicos utilizados a lo largo d
 - **Pensar como red:** Perspectiva que prioriza las conexiones entre personas y máquinas para construir conocimiento distribuido.
 - **Retroalimentación:** Información que permite evaluar y refinar un proyecto o decisión estratégica.
 - **Transparencia:** Principio de exponer métodos y datos de forma clara para fortalecer la confianza dentro de la comunidad.
+
+[Lee la sinopsis y el tagline del libro](../libro_tagline_sinopsis.md)

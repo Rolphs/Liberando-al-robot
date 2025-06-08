@@ -37,3 +37,5 @@ diseñadores y críticos, mejoraron sus herramientas e incorporaron módulos de
 automatización responsable. Este diálogo constante no solo fortaleció sus
 obras, sino que atrajo a nuevos miembros interesados en la intersección de arte
 e inteligencia artificial.
+
+[Lee la sinopsis y el tagline del libro](../libro_tagline_sinopsis.md)

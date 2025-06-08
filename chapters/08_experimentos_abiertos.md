@@ -38,3 +38,5 @@ la electrónica que llevaba meses frenando el desarrollo. Además, el portal sir
 para que nuevos integrantes se sumen sin necesidad de largas sesiones de
 inducción, ya que pueden consultar el histórico de pruebas y replicarlas en su
 propio laboratorio.
+
+[Lee la sinopsis y el tagline del libro](../libro_tagline_sinopsis.md)
