@@ -53,6 +53,7 @@ Lo desarrollamos en este repositorio aplicando los mismos principios que predica
 - [08_experimentos_abiertos](chapters/08_experimentos_abiertos.md)
 - [09_manifesto_final](chapters/09_manifesto_final.md)
 - [10_referencias](chapters/10_referencias.md)
+- [11_glosario](chapters/11_glosario.md)
 
 Cada capítulo está diseñado para:
 
