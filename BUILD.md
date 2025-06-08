@@ -31,6 +31,7 @@ orden:
 10. `chapters/09_manifesto_final.md`
 11. `chapters/10_referencias.md`
 12. `chapters/11_glosario.md`
+13. `chapters/13_notas_de_cierre.md`
 
 ## Generar PDF
 
@@ -48,6 +49,7 @@ pandoc \
   chapters/09_manifesto_final.md \
   chapters/10_referencias.md \
   chapters/11_glosario.md \
+  chapters/13_notas_de_cierre.md \
   --toc --pdf-engine=xelatex \
   -o Liberando_al_Robot.pdf
 ```
@@ -68,6 +70,7 @@ pandoc \
   chapters/09_manifesto_final.md \
   chapters/10_referencias.md \
   chapters/11_glosario.md \
+  chapters/13_notas_de_cierre.md \
   --toc \
   -o Liberando_al_Robot.epub
 ```
