@@ -36,3 +36,5 @@ de cada herramienta y evita implementaciones masivas sin un período de prueba.
 Recuerda que la tecnología cambia con rapidez: revisa periódicamente tus
 protocolos y ajusta las prácticas según la retroalimentación de quienes la usan
 día a día.
+
+[Lee la sinopsis y el tagline del libro](../libro_tagline_sinopsis.md)

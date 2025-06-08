@@ -37,3 +37,5 @@ actividades y retos. Gracias a un modelo de lenguaje que clasificaba las
 publicaciones, cualquier participante podía encontrar proyectos similares y
 coordinarse para intercambiar soluciones. El resultado fue una economía de
 esfuerzos y un incremento notable en la cantidad de iniciativas conjuntas.
+
+[Lee la sinopsis y el tagline del libro](../libro_tagline_sinopsis.md)

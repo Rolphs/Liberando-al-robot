@@ -37,3 +37,5 @@ tiempo ahorrado a diseñar nuevas campañas. Publican los resultados y el códig
 un repositorio abierto, invitando a otros colectivos a replicar el sistema. Esta
 estrategia no sólo optimizó su trabajo interno, sino que atrajo a voluntarios que
 aportan mejoras continuas y comparten hallazgos en comunidades científicas.
+
+[Lee la sinopsis y el tagline del libro](../libro_tagline_sinopsis.md)
