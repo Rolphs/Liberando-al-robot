@@ -28,3 +28,5 @@ participante documenta en un repositorio colaborativo las ideas aplicadas en su
 genera un banco de experimentos del que otros equipos pueden aprender. El libro
 se convierte así en una plataforma viva que evoluciona con cada nueva
 interpretación.
+
+[Lee la sinopsis y el tagline del libro](../libro_tagline_sinopsis.md)

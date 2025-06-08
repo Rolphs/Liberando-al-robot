@@ -35,3 +35,5 @@ datos en un blog interno y utilizan un modelo de lenguaje para generar
 preguntas que orienten la siguiente ronda de pruebas. Esta transparencia les ha
 permitido recibir aportes de otras áreas y acelerar la transición de idea a
 producto funcional.
+
+[Lee la sinopsis y el tagline del libro](../libro_tagline_sinopsis.md)

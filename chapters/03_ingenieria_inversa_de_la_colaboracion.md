@@ -42,3 +42,5 @@ una primera revisión y deja comentarios en los borradores. Los redactores tiene
 la última palabra, pero ganaron tiempo para investigar más a fondo. Documentaron
 todo el proyecto en un repositorio abierto, lo que permitió a otros medios de la
 región replicar la experiencia con adaptaciones mínimas.
+
+[Lee la sinopsis y el tagline del libro](../libro_tagline_sinopsis.md)
