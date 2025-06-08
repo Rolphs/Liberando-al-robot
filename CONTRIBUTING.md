@@ -26,6 +26,6 @@ Antes de enviar tu PR puedes verificar el estado de los archivos `.md` con estas
 1. Instala las dependencias:
    - `npm install -g markdownlint-cli`
    - `pip install codespell`
-2. Ejecuta:
+2. Ejecuta `./scripts/check.sh` para correr ambas herramientas o usa los comandos individuales:
    - `markdownlint '**/*.md'` para revisar estilo Markdown.
-   - `codespell` para encontrar errores ortográficos.
+   - `codespell -q 3 --ignore-words .codespellignore` para encontrar errores ortográficos.
