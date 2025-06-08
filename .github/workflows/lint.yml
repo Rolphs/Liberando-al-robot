@@ -30,4 +30,5 @@ jobs:
         run: pip install codespell
 
       - name: Run codespell
-        run: codespell -q 3 --ignore-words .codespellignore
+        run: |
+          codespell -q 3 --ignore-words .codespellignore
