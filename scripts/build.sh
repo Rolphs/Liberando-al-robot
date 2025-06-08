@@ -14,6 +14,7 @@ files=(
   chapters/09_manifesto_final.md
   chapters/10_referencias.md
   chapters/11_glosario.md
+  chapters/13_notas_de_cierre.md
 )
 
 pandoc "${files[@]}" --toc --pdf-engine=xelatex -o dist/Liberando_al_Robot.pdf
