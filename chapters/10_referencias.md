@@ -66,3 +66,5 @@ partir desde cero.
 Mantén este apartado vivo añadiendo nuevas referencias conforme avanza tu
 proyecto. La lectura crítica y el intercambio constante fortalecen cualquier
 estrategia que involucre inteligencia artificial y colaboración abierta.
+
+[Lee la sinopsis y el tagline del libro](../libro_tagline_sinopsis.md)

@@ -37,3 +37,5 @@ anotan los ajustes que realiza el modelo de lenguaje. Cada dos semanas, otro
 equipo audita los resultados siguiendo la guía de revisión. Este método mejoró
 la calidad de las respuestas y redujo el tiempo de espera de los clientes sin
 necesidad de grandes inversiones.
+
+[Lee la sinopsis y el tagline del libro](../libro_tagline_sinopsis.md)
