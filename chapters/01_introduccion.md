@@ -18,6 +18,12 @@ Un caso frecuente se da cuando se implementan herramientas de IA sin involucrar 
 
 La experiencia de varios laboratorios de innovación demuestra que, al iniciar con proyectos piloto y sesiones de revisión abierta, se construye confianza alrededor de la tecnología. Estas iniciativas documentan cada decisión y así sentan precedentes para futuras integraciones.
 
+### Casos de uso corporativos
+
+- **Morgan Stanley**: su asistente basado en GPT-4 consulta más de 100​000 documentos internos. El 98​% de los asesores lo utiliza para agilizar respuestas y mejorar la atención al cliente.
+- **McKinsey & Company**: *Lilli* condensa un siglo de conocimiento de la firma y es accesible vía chat. Alcanzó 70​% de adopción entre 45​000 empleados, reduciendo investigación redundante.
+- **Shopify – Sidekick**: asistente integrado en tiendas que recomienda promociones, gestiona inventarios y sugiere mejoras de UX.
+
 ## Ejemplo práctico
 
 Imaginemos un estudio de diseño que desea incorporar modelos de lenguaje en su
