@@ -3,6 +3,7 @@
 Este capítulo presenta el contexto del libro y explica por qué reimaginar nuestra colaboración con las máquinas es esencial para cualquier organización que busque innovar de forma sostenible.
 
 La transformación digital ha sido un concepto repetido hasta el cansancio, pero pocas veces se ha traducido en una práctica que realmente integre la creatividad colectiva. Más allá de las herramientas, lo que cambia es la forma en que conversamos y compartimos conocimiento. Sin una metodología que conecte personas y algoritmos, la promesa de la IA se disuelve en silos.
+En este escenario, los **Large Language Models (LLMs)** se convierten en aliados clave: analizan información no estructurada, extraen *insights* cualitativos y cuantitativos y asisten en la planeación estratégica. Gracias a estas capacidades, las organizaciones comprenden mejor su entorno y se anticipan a los cambios.
 
 Los avances de los **Large Language Models (LLMs)** están revolucionando la generación de conocimiento y la toma de decisiones en las empresas. Estas IA analizan información no estructurada, extraen *insights* tanto cualitativos como cuantitativos y colaboran en la planeación estratégica, ayudando a anticipar cambios y a comprender mejor el entorno.
 
