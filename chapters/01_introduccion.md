@@ -46,3 +46,7 @@ protocolos y ajusta las prácticas según la retroalimentación de quienes la us
 día a día.
 
 [Lee la sinopsis y el tagline del libro](../libro_tagline_sinopsis.md)
+
+## Riesgos y recomendaciones
+
+Los modelos de lenguaje no razonan causalmente, muestran fallas en cálculos exactos y pueden inventar datos. Para mitigarlo es aconsejable aplicar enfoques de recuperación aumentada (RAG), limitar los dominios de datos y asegurar trazabilidad y ética mediante una gobernanza clara. Un caso ilustrativo fue el chatbot de Air Canada, que se inventó una política de luto inexistente y obligó a la aerolínea a reembolsar al cliente.
